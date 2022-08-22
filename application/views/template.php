@@ -303,21 +303,27 @@
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url(); ?>index.php/welcome/tables">
+                            <a href="<?php echo base_url(); ?>index.php/admin">
                                 <i class="material-icons">view_list</i>
-                                <span>Contoh Tables</span>
+                                <span>Admin</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url(); ?>adminBSB/pages/typography.html">
-                                <i class="material-icons">text_fields</i>
-                                <span>Typography</span>
+                            <a href="<?php echo base_url(); ?>index.php/kategori">
+                                <i class="material-icons">view_list</i>
+                                <span>Kategori</span>
                             </a>
                         </li>
                         <li>
-                            <a href="<?php echo base_url(); ?>adminBSB/pages/helper-classes.html">
-                                <i class="material-icons">layers</i>
-                                <span>Helper Classes</span>
+                            <a href="<?php echo base_url(); ?>index.php/merek">
+                                <i class="material-icons">view_list</i>
+                                <span>Merek</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url(); ?>index.php/produk">
+                                <i class="material-icons">view_list</i>
+                                <span>Produk</span>
                             </a>
                         </li>
                         <li>
